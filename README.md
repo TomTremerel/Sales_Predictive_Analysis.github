@@ -7,7 +7,7 @@ The dataset has already been cleaned; I made no changes except for converting th
 
 Next, I conducted an EDA to understand the relationship between all variables. 
 
-![Figure 2024-05-13 141312](https://github.com/TomTremerel/Sales_Predictive_Analysis.github/assets/156415815/2f80278e-22c4-4c9b-bbe6-c1a2962c7652)
+![Figure 2024-05-13 141312](https://github.com/TomTremerel/Sales_Predictive_Analysis.github/assets/156415815/06fb9125-34de-482c-ba10-c5b4766f9345)
 
 This graph illustrates the evolution of the CPI, which represents inflation. Apart from tracking the CPI, the "Date" variable proved unnecessary for my analysis of this dataset, so I decided to drop it.
 
